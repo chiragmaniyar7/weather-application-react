@@ -2,7 +2,7 @@
 
 
 ### Demo - Deployed over Github Pages 
-https://chiragmaniyar7.github.io/weather-app
+https://chiragmaniyar7.github.io/weather-application-react
 
 
 ### APIs Used
