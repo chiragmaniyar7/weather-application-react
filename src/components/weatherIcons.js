@@ -1,0 +1,18 @@
+export const WeatherIcons = {
+    "01d": "https://cdn-icons-png.flaticon.com/512/979/979585.png",
+    "01n": "https://cdn-icons-png.flaticon.com/512/547/547433.png",
+    "02d": "https://cdn-icons-png.flaticon.com/512/3917/3917805.png",
+    "02n": "https://cdn-icons-png.flaticon.com/512/4834/4834576.png",
+    "03d": "https://cdn-icons-png.flaticon.com/512/3313/3313983.png",
+    "03n": "https://cdn-icons-png.flaticon.com/512/3313/3313983.png",
+    "04d": "https://cdn-icons-png.flaticon.com/512/3917/3917805.png",
+    "04n": "https://cdn-icons-png.flaticon.com/512/4834/4834576.png",
+    "09d": "https://cdn-icons-png.flaticon.com/512/2469/2469994.png",
+    "09n": "https://cdn-icons-png.flaticon.com/512/1332/1332374.png",
+    "10d": "https://cdn-icons-png.flaticon.com/512/2469/2469994.png",
+    "10n": "https://cdn-icons-png.flaticon.com/512/1332/1332374.png",
+    "11d": "https://cdn-icons-png.flaticon.com/512/1146/1146860.png",
+    "11n": "https://cdn-icons-png.flaticon.com/512/1146/1146860.png",
+    "50d": "https://cdn-icons-png.flaticon.com/512/7407/7407744.png",
+    "50n": "https://cdn-icons-png.flaticon.com/512/7407/7407744.png",
+  };
